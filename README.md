@@ -29,14 +29,13 @@ https://www.youtube.com/watch?v=kts-yg-2vkg
 
 ***
 
-# Woking implementation: 
+# Woking implementation:
+
+https://www.youtube.com/watch?v=snI2-9CENwI
+
 <br>
 
-![https://img.youtube.com/vi/snI2-9CENwI/0.jpg](https://www.youtube.com/watch?v=snI2-9CENwI)
-
-<br>
-
-# Demo
+# Wokring Demo
 
 ![](https://github.com/engineerscodes/JavaWorkSpaceHUB/blob/master/OopsLab/demo3%20(1).gif)
 
