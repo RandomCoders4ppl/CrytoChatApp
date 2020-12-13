@@ -31,7 +31,9 @@ APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/
 
 # Woking implementation:
 
-[Working video](https://www.youtube.com/watch?v=snI2-9CENwI)
+<!--[Working video](https://www.youtube.com/watch?v=snI2-9CENwI)-->
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/snI2-9CENwI/0.jpg)](https://www.youtube.com/watch?v=snI2-9CENwI)
 
 <br>
 
