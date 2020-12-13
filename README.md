@@ -20,18 +20,18 @@ APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/
 <br>
 
 # Link: 
-https://firebase.google.com/docs/admin/setup
+[SetupLink](https://firebase.google.com/docs/admin/setup)
 
 <br>
 
 # Setting up firebase:
-https://www.youtube.com/watch?v=kts-yg-2vkg
+[Video how to Setup](https://www.youtube.com/watch?v=kts-yg-2vkg)
 
 ***
 
 # Woking implementation:
 
-https://www.youtube.com/watch?v=snI2-9CENwI
+[Working video](https://www.youtube.com/watch?v=snI2-9CENwI)
 
 <br>
 
