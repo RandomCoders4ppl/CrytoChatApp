@@ -1,7 +1,8 @@
 # CryptoChatApp
 
 # Instalation:
-APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/app/build/outputs/apk/debug/app-debug.apk)
+APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/app/build/outputs/apk/debug/app-debug.apk) or,
+https://github.com/RandomCodersVision/CrytoChatApp/blob/master/app/build/outputs/apk/debug/app-debug.apk
 
 # Ciphers used:
 1. Feistel Cipher
@@ -16,7 +17,7 @@ APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/
 
 # Implemented Ciphers are found [here.](https://github.com/RandomCodersVision/CrytoChatApp/tree/master/app/src/main/java/com/example/crytochat/AffineChiper)
 
-# Do not forget to replace Firebase service key file with Your service key.
+> ### Note: Do not forget to replace Firebase service key file with Your service key.
 <br>
 
 # Link: 
