@@ -1,6 +1,6 @@
 # CryptoChatApp
 
-# Instalation:
+# Installation:
 APK: [link here](https://github.com/RandomCodersVision/CrytoChatApp/blob/master/app/build/outputs/apk/debug/app-debug.apk) or,
 https://github.com/RandomCodersVision/CrytoChatApp/blob/master/app/build/outputs/apk/debug/app-debug.apk
 
